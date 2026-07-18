@@ -35,4 +35,4 @@ This is a purposeful coverage portfolio, not a claim that these five authorities
 
 ## Evidence boundary
 
-The regression, residuals, fixed-scheme ranking intersection and figures have been independently reproduced from the surviving 328-authority reference output. The original raw age, deprivation and English-proficiency columns were not preserved, so the exact reported six-component scores and Monte Carlo frequencies cannot yet be regenerated end to end. The recommendation is suitable for portfolio demonstration and exploratory prioritisation, not operational deployment without refreshed source data and stakeholder validation.
+The regression, residuals, fixed-scheme ranking intersection and figures have been independently reproduced from the surviving 328-authority reference output. The original raw age, deprivation and English-proficiency columns were not preserved, so the exact reported six-component scores and Monte Carlo frequencies cannot yet be regenerated end to end. The recommendation is suitable for exploratory prioritisation, not operational deployment without refreshed source data and stakeholder validation.
