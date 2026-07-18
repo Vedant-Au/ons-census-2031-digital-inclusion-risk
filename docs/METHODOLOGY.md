@@ -67,7 +67,7 @@ $$
 
 Each authority's robustness is the proportion of draws in which it appears in the top 12. A fixed random seed of 42 makes the procedure deterministic once the component data are available.
 
-## 5. Convert a ranking into a decision portfolio
+## 5. Convert a ranking into a purposeful research set
 
 The final selection uses three lenses:
 
@@ -75,7 +75,7 @@ The final selection uses three lenses:
 - **Scale:** the number of residents potentially affected.
 - **Underperformance:** outcome below the level expected from paper-first allocation.
 
-The portfolio rule deliberately chooses distinct contexts and failure modes. It is a research-prioritisation heuristic, not a funding formula or prediction of individual behaviour.
+The selection rule deliberately chooses distinct contexts and failure modes. It is a research-prioritisation heuristic, not a funding formula or prediction of individual behaviour.
 
 ## Assumptions
 
