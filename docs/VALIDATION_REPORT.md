@@ -26,7 +26,7 @@ Only 300 of 328 displayed ranks for scheme A, 301 for B and 297 for C exactly re
 
 - The surviving workbook does not contain the raw age 65–74, age 75+, deprivation and limited-English columns for all authorities.
 - The exact z-score matrix and 1,000-draw Monte Carlo frequencies cannot therefore be independently regenerated from the preserved files.
-- The five-location portfolio comes from the group report's combined quantitative and qualitative reasoning; only the surviving quantitative components are represented here.
+- The five-location research set comes from the group report's combined quantitative and qualitative reasoning; only the surviving quantitative components are represented here.
 
 ## Interpretation risks
 
