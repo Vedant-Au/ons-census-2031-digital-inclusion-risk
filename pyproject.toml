@@ -1,0 +1,14 @@
+[project]
+name = "ons-census-2031-digital-inclusion"
+version = "1.1.0"
+description = "Reconstructed analysis for an ONS Census 2031 digital-inclusion risk case assigned through Hippo."
+requires-python = ">=3.10"
+dependencies = [
+  "numpy>=2.0,<3.0",
+  "pandas>=2.0,<3.0",
+  "scipy>=1.13,<2.0",
+  "matplotlib>=3.8,<4.0",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,30 @@
+{
+  "authority_count": 328,
+  "regression_intercept": 94.55201380913282,
+  "regression_slope": -0.5459607264768904,
+  "regression_r_squared": 0.9642772384540454,
+  "max_absolute_residual_difference": 0.000499494148480828,
+  "rank_matches_out_of_328": {
+    "A": 300,
+    "B": 301,
+    "C": 297
+  },
+  "rank_reproduction_note": "Displayed composite scores are rounded to three decimals; the workbook ranks were calculated from higher-precision values, so some exact rank positions tie or swap when recalculated from the displayed scores.",
+  "top_12_all_three_reported": [
+    "Blaenau Gwent",
+    "Boston",
+    "Carmarthenshire",
+    "Ceredigion",
+    "Conwy",
+    "Denbighshire"
+  ],
+  "top_12_all_three_recalculated": [
+    "Blaenau Gwent",
+    "Boston",
+    "Carmarthenshire",
+    "Ceredigion",
+    "Conwy",
+    "Denbighshire"
+  ],
+  "top_12_intersection_matches": true
+}
