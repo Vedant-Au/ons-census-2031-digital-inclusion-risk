@@ -1,7 +1,7 @@
 # Validation report
 
 **Overall status: Share with caveats**  
-**Validated scope:** reconstructed portfolio analysis and surviving 328-authority reference outputs  
+**Validated scope:** reconstructed analysis and surviving 328-authority reference outputs  
 **Not validated:** independent end-to-end regeneration of all six raw components and reported Monte Carlo frequencies
 
 ## Verified checks
@@ -37,4 +37,4 @@ Only 300 of 328 displayed ranks for scheme A, 301 for B and 297 for C exactly re
 
 ## Release recommendation
 
-The repository is suitable for a professional portfolio, methodology review and exploratory prioritisation **if the limitations remain prominent**. Before operational use, restore and refresh the official raw inputs, rerun the full pipeline, reconcile geographic boundaries, obtain subject-matter review and document stakeholder acceptance criteria.
+The repository is suitable for methodology review and exploratory prioritisation **if the limitations remain prominent**. Before operational use, restore and refresh the official raw inputs, rerun the full pipeline, reconcile geographic boundaries, obtain subject-matter review and document stakeholder acceptance criteria.
