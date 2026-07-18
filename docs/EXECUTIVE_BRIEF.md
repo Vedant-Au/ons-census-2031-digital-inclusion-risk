@@ -2,21 +2,21 @@
 
 ## The decision
 
-The 2031 Census is expected to be increasingly digital-first. The practical question is not simply which local authorities had the lowest online response in 2021, but where a digital-first operating model could create the greatest risk of exclusion—and which places provide the most useful portfolio for testing interventions.
+The 2031 Census is expected to be increasingly digital-first. The practical question is not simply which local authorities had the lowest online response in 2021, but where a digital-first operating model could create the greatest risk of exclusion—and which places provide the most useful research set for testing interventions.
 
 ## Recommendation
 
-Use a five-location research and intervention portfolio from the group report:
+Use a five-location research and intervention set from the group report:
 
-| Location | Portfolio role |
+| Location | Role in the research set |
 | --- | --- |
 | Boston | High intensity across all fixed schemes and strong sensitivity robustness |
 | Blaenau Gwent | High intensity across all fixed schemes; distinct deprivation context |
-| Kingston upon Hull | Population-scale lens; prevents the portfolio from favouring only smaller areas |
+| Kingston upon Hull | Population-scale lens; prevents the selection from favouring only smaller areas |
 | Conwy | Highest reported weighting robustness and consistent fixed-scheme risk |
 | North Norfolk | Strong weighting robustness; ageing and rural-access context |
 
-This is a purposeful coverage portfolio, not a claim that these five authorities are the only places requiring support.
+This is a purposeful coverage set, not a claim that these five authorities are the only places requiring support.
 
 ## What the evidence says
 
