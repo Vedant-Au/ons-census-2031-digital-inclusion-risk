@@ -4,8 +4,20 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Licence: MIT](https://img.shields.io/badge/Code-MIT-green.svg)](LICENSE)
+[![Quality checks](https://github.com/Vedant-Au/ons-census-2031-digital-inclusion-risk/actions/workflows/quality.yml/badge.svg)](https://github.com/Vedant-Au/ons-census-2031-digital-inclusion-risk/actions/workflows/quality.yml)
+
+**Portfolio:** [Accessibility business case](https://github.com/Vedant-Au/accessible-employee-services-business-case) · [Enterprise risk](https://github.com/Vedant-Au/enterprise-risk-management-framework) · [Carbon modelling](https://github.com/Vedant-Au/offshore-wind-carbon-footprint-model) · [Workflow automation](https://github.com/Vedant-Au/vfx-workflow-automation-decision-model)
 
 > Portfolio context: this was an ONS Census 2031 case assigned to an MSc group by Hippo. I served as team lead. The code is a transparent reconstruction created after the original Python files were lost; it is not represented as the original submitted code or as official ONS analysis.
+
+## Recruiter quick scan
+
+| Lens | Evidence |
+| --- | --- |
+| Leadership | Team lead for the MSc consulting case |
+| Business analysis | Decision framing, intervention portfolio and implementation implications |
+| Analytics | OLS regression, composite indicators and Monte Carlo sensitivity testing |
+| Assurance | Data lineage, reconstruction disclosure, 12 tests and explicit share-with-caveats status |
 
 ## Decision and recommendation
 
