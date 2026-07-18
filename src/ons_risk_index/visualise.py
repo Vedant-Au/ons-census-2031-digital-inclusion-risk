@@ -1,4 +1,4 @@
-"""Publication-ready figures for the reconstructed portfolio repository."""
+"""Publication-ready figures for the reconstructed analysis."""
 
 from __future__ import annotations
 
