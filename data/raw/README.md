@@ -19,13 +19,10 @@ online share minus actual online share.
 
 Official sources documented in the report:
 
-- ONS online-share and paper-first LSOA dataset:
-  https://www.ons.gov.uk/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage/datasets/census2021onlineshareofhouseholdresponsesbylowerlayersuperoutputareaforenglandandwales
-- Nomis Census 2021 bulk data downloads:
-  https://www.nomisweb.co.uk/sources/census_2021_bulk
+- [ONS online-share and paper-first LSOA dataset](https://www.ons.gov.uk/peoplepopulationandcommunity/householdcharacteristics/homeinternetandsocialmediausage/datasets/census2021onlineshareofhouseholdresponsesbylowerlayersuperoutputareaforenglandandwales)
+- [Nomis Census 2021 bulk data downloads](https://www.nomisweb.co.uk/sources/census_2021_bulk)
 - TS007A: age by five-year age bands
 - TS011: households by deprivation dimensions
 - TS029: proficiency in English
 
 Do not commit personal, restricted or client-confidential data.
-
