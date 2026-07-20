@@ -8,4 +8,3 @@ It does **not** contain the four underlying demographic component columns.
 Consequently, the repository can independently reproduce all quantities based
 on the surviving columns, while the full six-component Monte Carlo simulation
 requires the public raw inputs described in `data/raw/README.md`.
-
