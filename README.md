@@ -4,7 +4,7 @@
 [![Quality checks](https://github.com/Vedant-Au/ons-census-2031-digital-inclusion-risk/actions/workflows/quality.yml/badge.svg)](https://github.com/Vedant-Au/ons-census-2031-digital-inclusion-risk/actions/workflows/quality.yml)
 [![Licence: MIT](https://img.shields.io/badge/Code-MIT-green.svg)](LICENSE)
 
-**328 local authorities · six-person MSc consulting team · team lead**
+> 328 local authorities · six-person MSc consulting team · team lead
 
 ## The apparent signal was mostly an operating decision
 
