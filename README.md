@@ -4,7 +4,9 @@
 [![Quality checks](https://github.com/Vedant-Au/ons-census-2031-digital-inclusion-risk/actions/workflows/quality.yml/badge.svg)](https://github.com/Vedant-Au/ons-census-2031-digital-inclusion-risk/actions/workflows/quality.yml)
 [![Licence: MIT](https://img.shields.io/badge/Code-MIT-green.svg)](LICENSE)
 
-> 328 local authorities · six-person MSc consulting team · team lead
+> 328 local authorities · live client project for the Office for National Statistics · six-person MSc consulting team
+
+**[One-page summary (PDF)](one-pager.pdf)** · BEBA live client project, MSc Business Analysis and Consulting, University of Strathclyde · May–Jun 2026
 
 ## The apparent signal was mostly an operating decision
 
